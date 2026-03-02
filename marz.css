@@ -5,7 +5,7 @@
 
 /* Main Background */
 body {
-    background: url('https://i.imgur.com/7b1QZ8F.jpg') no-repeat center center fixed;
+    background: url('https://i.pinimg.com/736x/f3/df/0a/f3df0a90366fa5a1231fed5dfaaa555b.jpg') no-repeat center center fixed;
     background-size: cover;
     font-family: 'Quicksand', sans-serif;
     color: #5a4a00;
@@ -22,8 +22,8 @@ body::before {
     height: 140%;
     pointer-events: none;
     background-image: 
-        url('https://i.imgur.com/Zs6XKQp.png'),
-        url('https://i.imgur.com/Zs6XKQp.png');
+        url('https://cur.cursors-4u.net/nature/images10/nat934.png'),
+        url('https://cur.cursors-4u.net/nature/images10/nat932.png');
     background-repeat: repeat, repeat;
     background-size: 70px, 40px;
     animation: sunflowerFall 25s linear infinite,
